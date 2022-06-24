@@ -1,0 +1,7 @@
+#page-2{
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    padding: 10vh 0;
+    background-color: rgb(234, 255, 150);
+}

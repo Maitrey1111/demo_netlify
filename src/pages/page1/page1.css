@@ -1,0 +1,7 @@
+#page-1{
+    font-size: larger;
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    padding: 10vh 0;
+}
